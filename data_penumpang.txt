@@ -1,0 +1,12 @@
+
+Nama	: dido
+Maskapai	: garuda
+Rute	: jakarta-lombok
+Tanggal	: 24-05-2029
+Jam Keberangkatan	: 10.35
+
+Nama	: didi
+Maskapai	: batik
+Rute	: pontianak-jakarta
+Tanggal	: 25-09-2029
+Jam Keberangkatan	: 14.00
